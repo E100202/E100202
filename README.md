@@ -8,6 +8,8 @@ E-Nummer: E100202
 
 E-Mail-Adresse: alina_buss@hugoboss.com oder s190392@student.dhbw-mannheim.de
 
+
+
 Studiengang: Wirtschaftsinformatik - Data Science 
 
 Kurs: WWI19-DSB
