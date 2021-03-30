@@ -4,7 +4,7 @@ S-Nummer: S190392
 E-Nummer: E100202
 E-Mail-Adresse: alina_buss@hugoboss.com oder s190392@student.dhbw-mannheim.de
 
-Studiengang: Wirtschaftsinformatik - Data Science
+Studiengang: Wirtschaftsinformatik - Data Science \n
 Kurs: WWI19-DSB
 Hochschule: DHBW Mannheim
 Dualer Partner: HUGO BOSS AG
